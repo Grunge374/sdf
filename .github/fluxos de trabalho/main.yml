@@ -1,0 +1,5 @@
+git remote add origin git@github.com:Grunge374/sdf.git
+
+git ramo -M principal
+
+git push -u origin main
